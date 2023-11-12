@@ -1,0 +1,103 @@
+[
+    {
+        "clubName": "Arsenal",
+        "stadiumName": "Highbury",
+        "logoUrl": "https://ibb.co/jv6rwkb"
+    },
+    {
+      "clubName": "Aston Villa",
+      "stadiumName": "Villa Park",
+      "logoUrl": "https://ibb.co/sKVnSHX"
+    },
+    {
+        "clubName": "Birmingham City",
+        "stadiumName": "St Andrews",
+        "logoUrl": "https://ibb.co/BzyshPQ"
+    },
+    {
+        "clubName": "Blackburn Rovers",
+        "stadiumName": "Ewood Park",
+        "logoUrl": "https://ibb.co/fXn4STC"
+    },
+    {
+        "clubName": "Bolton Wanderers",
+        "stadiumName": "Macron Stadium",
+        "logoUrl": "https://ibb.co/SR8Fw76"
+    },
+    {
+        "clubName": "Charlton Athletic",
+        "stadiumName": "The Valley",
+        "logoUrl": "https://ibb.co/pxCbQNp"
+    },
+    {
+        "clubName": "Chelsea",
+        "stadiumName": "Stamford Bridge",
+        "logoUrl": "https://ibb.co/X5G7YMt"
+    },
+    {
+        "clubName": "Everton",
+        "stadiumName": "Goodison Park",
+        "logoUrl": "https://ibb.co/5smJrL0"
+    },
+    {
+        "clubName": "Fulham",
+        "stadiumName": "Loftus Road",
+        "logoUrl": "https://ibb.co/D56W6H8"
+    },
+    {
+        "clubName": "Leeds United",
+        "stadiumName": "Elland Road",
+        "logoUrl": "https://ibb.co/X4bp9cj"
+    },
+    {
+        "clubName": "Leicester City",
+        "stadiumName": "King Power Stadium",
+        "logoUrl": "https://ibb.co/QQDTwZg"
+    },
+    {
+        "clubName": "Liverpool",
+        "stadiumName": "Anfield",
+        "logoUrl": "https://ibb.co/Zx0gFsq"
+    },
+    {
+        "clubName": "Manchester City",
+        "stadiumName": "Etihad Stadium",
+        "logoUrl": "https://ibb.co/tX8MrzC"
+    },
+    {
+        "clubName": "Manchester United",
+        "stadiumName": "Old Trafford",
+        "logoUrl": "https://ibb.co/LPGVXrX"
+    },
+    {
+        "clubName": "Middlesbrough",
+        "stadiumName": "Riverside Stadium",
+        "logoUrl": "https://ibb.co/dKc3FQ3"
+    },
+    {
+        "clubName": "Newcastle United",
+        "stadiumName": "Sports Direct Arena",
+        "logoUrl": "https://ibb.co/QdXnkg0"
+    },
+    {
+        "clubName": "Portsmouth",
+        "stadiumName": "Fratton Park",
+        "logoUrl": "https://ibb.co/NnRrkYc"
+    },
+    {
+        "clubName": "Southampton",
+        "stadiumName": "THe Friends Provident St Mary's Stadium",
+        "logoUrl": "https://ibb.co/hKT6Gd0"
+    },
+    {
+        "clubName": "T******* H******",
+        "stadiumName": "Shite Hart Lane",
+        "logoUrl": "https://ibb.co/JchD9jK"
+    },
+    {
+        "clubName": "Wolverhampton Wanderers",
+        "stadiumName": "Molineux",
+        "logoUrl": "https://ibb.co/ggqp0KW"
+    }
+  ]
+  
