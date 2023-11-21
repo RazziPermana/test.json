@@ -2,102 +2,161 @@
     {
         "clubName": "Arsenal",
         "stadiumName": "Highbury",
-        "logoUrl": "https://ibb.co/jv6rwkb"
+        "logoUrl": "https://ibb.co/jv6rwkb",
+        "tahun": "1886",
+        "city": "London",
+        "bestplayer": "Thierry Henry"
     },
     {
-      "clubName": "Aston Villa",
-      "stadiumName": "Villa Park",
-      "logoUrl": "https://ibb.co/sKVnSHX"
+        "clubName": "Aston Villa",
+        "stadiumName": "Villa Park",
+        "logoUrl": "https://ibb.co/sKVnSHX",
+        "tahun": "1874",
+        "city": "Birmingham",
+        "bestplayer": "Jack Grealish"
     },
     {
         "clubName": "Birmingham City",
         "stadiumName": "St Andrews",
-        "logoUrl": "https://ibb.co/BzyshPQ"
+        "logoUrl": "https://ibb.co/BzyshPQ",
+        "tahun": "1875",
+        "city": "Birmingham",
+        "bestplayer": "Trevor Francis"
     },
     {
         "clubName": "Blackburn Rovers",
         "stadiumName": "Ewood Park",
-        "logoUrl": "https://ibb.co/fXn4STC"
+        "logoUrl": "https://ibb.co/fXn4STC",
+        "tahun": "1875",
+        "city": "Blackburn",
+        "bestplayer": "Alan Shearer"
     },
     {
         "clubName": "Bolton Wanderers",
         "stadiumName": "Macron Stadium",
-        "logoUrl": "https://ibb.co/SR8Fw76"
+        "logoUrl": "https://ibb.co/SR8Fw76",
+        "tahun": "1874",
+        "city": "Bolton",
+        "bestplayer": "Nat Lofthouse"
     },
     {
         "clubName": "Charlton Athletic",
         "stadiumName": "The Valley",
-        "logoUrl": "https://ibb.co/pxCbQNp"
+        "logoUrl": "https://ibb.co/pxCbQNp",
+        "tahun": "1905",
+        "city": "London",
+        "bestplayer": "Sam Bartram"
     },
     {
         "clubName": "Chelsea",
         "stadiumName": "Stamford Bridge",
-        "logoUrl": "https://ibb.co/X5G7YMt"
+        "logoUrl": "https://ibb.co/X5G7YMt",
+        "tahun": "1905",
+        "city": "London",
+        "bestplayer": "Frank Lampard"
     },
     {
         "clubName": "Everton",
         "stadiumName": "Goodison Park",
-        "logoUrl": "https://ibb.co/5smJrL0"
+        "logoUrl": "https://ibb.co/5smJrL0",
+        "tahun": "1878",
+        "city": "Liverpool",
+        "bestplayer": "Dixie Dean"
     },
     {
         "clubName": "Fulham",
         "stadiumName": "Loftus Road",
-        "logoUrl": "https://ibb.co/D56W6H8"
+        "logoUrl": "https://ibb.co/D56W6H8",
+        "tahun": "1879",
+        "city": "London",
+        "bestplayer": "Johnny Haynes"
     },
     {
         "clubName": "Leeds United",
         "stadiumName": "Elland Road",
-        "logoUrl": "https://ibb.co/X4bp9cj"
+        "logoUrl": "https://ibb.co/X4bp9cj",
+        "tahun": "1919",
+        "city": "Leeds",
+        "bestplayer": "Billy Bremner"
     },
     {
         "clubName": "Leicester City",
         "stadiumName": "King Power Stadium",
-        "logoUrl": "https://ibb.co/QQDTwZg"
+        "logoUrl": "https://ibb.co/QQDTwZg",
+        "tahun": "1884",
+        "city": "Leicester",
+        "bestplayer": "Gary Lineker"
     },
     {
         "clubName": "Liverpool",
         "stadiumName": "Anfield",
-        "logoUrl": "https://ibb.co/Zx0gFsq"
+        "logoUrl": "https://ibb.co/Zx0gFsq",
+        "tahun": "1892",
+        "city": "Liverpool",
+        "bestplayer": "Steven Gerrard"
     },
     {
         "clubName": "Manchester City",
         "stadiumName": "Etihad Stadium",
-        "logoUrl": "https://ibb.co/tX8MrzC"
+        "logoUrl": "https://ibb.co/tX8MrzC",
+        "tahun": "1880",
+        "city": "Manchester",
+        "bestplayer": "Sergio Agüero"
     },
     {
         "clubName": "Manchester United",
         "stadiumName": "Old Trafford",
-        "logoUrl": "https://ibb.co/LPGVXrX"
+        "logoUrl": "https://ibb.co/LPGVXrX",
+        "tahun": "1878",
+        "city": "Manchester",
+        "bestplayer": "Ryan Giggs"
     },
     {
         "clubName": "Middlesbrough",
         "stadiumName": "Riverside Stadium",
-        "logoUrl": "https://ibb.co/dKc3FQ3"
+        "logoUrl": "https://ibb.co/dKc3FQ3",
+        "tahun": "1876",
+        "city": "Middlesbrough",
+        "bestplayer": "Juninho Paulista"
     },
     {
         "clubName": "Newcastle United",
         "stadiumName": "Sports Direct Arena",
-        "logoUrl": "https://ibb.co/QdXnkg0"
+        "logoUrl": "https://ibb.co/QdXnkg0",
+        "tahun": "1892",
+        "city": "Newcastle",
+        "bestplayer": "Alan Shearer"
     },
     {
         "clubName": "Portsmouth",
         "stadiumName": "Fratton Park",
-        "logoUrl": "https://ibb.co/NnRrkYc"
+        "logoUrl": "https://ibb.co/NnRrkYc",
+        "tahun": "1898",
+        "city": "Portsmouth",
+        "bestplayer": "Jimmy Dickinson"
     },
     {
         "clubName": "Southampton",
-        "stadiumName": "THe Friends Provident St Mary's Stadium",
-        "logoUrl": "https://ibb.co/hKT6Gd0"
+        "stadiumName": "The Friends Provident St Mary's Stadium",
+        "logoUrl": "https://ibb.co/hKT6Gd0",
+        "tahun": "1885",
+        "city": "Southampton",
+        "bestplayer": "Matt Le Tissier"
     },
     {
-        "clubName": "T******* H******",
+        "clubName": "T******** H******",
         "stadiumName": "Shite Hart Lane",
-        "logoUrl": "https://ibb.co/JchD9jK"
+        "logoUrl": "https://ibb.co/JchD9jK",
+        "tahun": "1882",
+        "city": "London",
+        "bestplayer": "Harry Kane"
     },
     {
         "clubName": "Wolverhampton Wanderers",
         "stadiumName": "Molineux",
-        "logoUrl": "https://ibb.co/ggqp0KW"
+        "logoUrl": "https://ibb.co/ggqp0KW",
+        "tahun": "1877",
+        "city": "Wolverhampton",
+        "bestplayer": "Billy Wright"
     }
-  ]
-  
+]
