@@ -2,7 +2,7 @@
     {
         "clubName": "Arsenal",
         "stadiumName": "Highbury",
-        "logoUrl": "https://ibb.co/jv6rwkb",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/5/53/Arsenal_FC.svg/255px-Arsenal_FC.svg.png",
         "tahun": "1886",
         "city": "London",
         "bestplayer": "Thierry Henry"
@@ -10,7 +10,7 @@
     {
         "clubName": "Aston Villa",
         "stadiumName": "Villa Park",
-        "logoUrl": "https://ibb.co/sKVnSHX",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Aston_Villa_logo.svg/225px-Aston_Villa_logo.svg.png",
         "tahun": "1874",
         "city": "Birmingham",
         "bestplayer": "Jack Grealish"
@@ -18,7 +18,7 @@
     {
         "clubName": "Birmingham City",
         "stadiumName": "St Andrews",
-        "logoUrl": "https://ibb.co/BzyshPQ",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/195px-Birmingham_City_FC_logo.svg.png",
         "tahun": "1875",
         "city": "Birmingham",
         "bestplayer": "Trevor Francis"
@@ -26,7 +26,7 @@
     {
         "clubName": "Blackburn Rovers",
         "stadiumName": "Ewood Park",
-        "logoUrl": "https://ibb.co/fXn4STC",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/270px-Blackburn_Rovers.svg.png",
         "tahun": "1875",
         "city": "Blackburn",
         "bestplayer": "Alan Shearer"
@@ -34,7 +34,7 @@
     {
         "clubName": "Bolton Wanderers",
         "stadiumName": "Macron Stadium",
-        "logoUrl": "https://ibb.co/SR8Fw76",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Bolton_Wanderers_FC_logo.svg/255px-Bolton_Wanderers_FC_logo.svg.png",
         "tahun": "1874",
         "city": "Bolton",
         "bestplayer": "Nat Lofthouse"
@@ -42,7 +42,7 @@
     {
         "clubName": "Charlton Athletic",
         "stadiumName": "The Valley",
-        "logoUrl": "https://ibb.co/pxCbQNp",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/Charlton_Athletic.svg/263px-Charlton_Athletic.svg.png",
         "tahun": "1905",
         "city": "London",
         "bestplayer": "Sam Bartram"
@@ -50,7 +50,7 @@
     {
         "clubName": "Chelsea",
         "stadiumName": "Stamford Bridge",
-        "logoUrl": "https://ibb.co/X5G7YMt",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/c/cc/Chelsea_FC.svg/300px-Chelsea_FC.svg.png",
         "tahun": "1905",
         "city": "London",
         "bestplayer": "Frank Lampard"
@@ -58,7 +58,7 @@
     {
         "clubName": "Everton",
         "stadiumName": "Goodison Park",
-        "logoUrl": "https://ibb.co/5smJrL0",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/7/7c/Everton_FC_logo.svg/300px-Everton_FC_logo.svg.png",
         "tahun": "1878",
         "city": "Liverpool",
         "bestplayer": "Dixie Dean"
@@ -66,7 +66,7 @@
     {
         "clubName": "Fulham",
         "stadiumName": "Loftus Road",
-        "logoUrl": "https://ibb.co/D56W6H8",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/1/13/Fulham_FC.svg/225px-Fulham_FC.svg.png",
         "tahun": "1879",
         "city": "London",
         "bestplayer": "Johnny Haynes"
@@ -74,7 +74,7 @@
     {
         "clubName": "Leeds United",
         "stadiumName": "Elland Road",
-        "logoUrl": "https://ibb.co/X4bp9cj",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/5/54/Leeds_United_F.C._logo.svg/245px-Leeds_United_F.C._logo.svg.png",
         "tahun": "1919",
         "city": "Leeds",
         "bestplayer": "Billy Bremner"
@@ -82,7 +82,7 @@
     {
         "clubName": "Leicester City",
         "stadiumName": "King Power Stadium",
-        "logoUrl": "https://ibb.co/QQDTwZg",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/270px-Leicester_City_crest.svg.png",
         "tahun": "1884",
         "city": "Leicester",
         "bestplayer": "Gary Lineker"
@@ -90,7 +90,7 @@
     {
         "clubName": "Liverpool",
         "stadiumName": "Anfield",
-        "logoUrl": "https://ibb.co/Zx0gFsq",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Liverpool_FC.svg/300px-Liverpool_FC.svg.png",
         "tahun": "1892",
         "city": "Liverpool",
         "bestplayer": "Steven Gerrard"
@@ -98,7 +98,7 @@
     {
         "clubName": "Manchester City",
         "stadiumName": "Etihad Stadium",
-        "logoUrl": "https://ibb.co/tX8MrzC",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/Manchester_City_FC_badge.svg/300px-Manchester_City_FC_badge.svg.png",
         "tahun": "1880",
         "city": "Manchester",
         "bestplayer": "Sergio Agüero"
@@ -106,7 +106,7 @@
     {
         "clubName": "Manchester United",
         "stadiumName": "Old Trafford",
-        "logoUrl": "https://ibb.co/LPGVXrX",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/285px-Manchester_United_FC_crest.svg.png",
         "tahun": "1878",
         "city": "Manchester",
         "bestplayer": "Ryan Giggs"
@@ -114,7 +114,7 @@
     {
         "clubName": "Middlesbrough",
         "stadiumName": "Riverside Stadium",
-        "logoUrl": "https://ibb.co/dKc3FQ3",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/640px-Middlesbrough_FC_crest.svg.png",
         "tahun": "1876",
         "city": "Middlesbrough",
         "bestplayer": "Juninho Paulista"
@@ -122,7 +122,7 @@
     {
         "clubName": "Newcastle United",
         "stadiumName": "Sports Direct Arena",
-        "logoUrl": "https://ibb.co/QdXnkg0",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/5/56/Newcastle_United_Logo.svg/300px-Newcastle_United_Logo.svg.png",
         "tahun": "1892",
         "city": "Newcastle",
         "bestplayer": "Alan Shearer"
@@ -130,7 +130,7 @@
     {
         "clubName": "Portsmouth",
         "stadiumName": "Fratton Park",
-        "logoUrl": "https://ibb.co/NnRrkYc",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Portsmouth_FC_logo.svg/300px-Portsmouth_FC_logo.svg.png",
         "tahun": "1898",
         "city": "Portsmouth",
         "bestplayer": "Jimmy Dickinson"
@@ -138,7 +138,7 @@
     {
         "clubName": "Southampton",
         "stadiumName": "The Friends Provident St Mary's Stadium",
-        "logoUrl": "https://ibb.co/hKT6Gd0",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/285px-FC_Southampton.svg.png",
         "tahun": "1885",
         "city": "Southampton",
         "bestplayer": "Matt Le Tissier"
@@ -146,7 +146,7 @@
     {
         "clubName": "T******** H******",
         "stadiumName": "Shite Hart Lane",
-        "logoUrl": "https://ibb.co/JchD9jK",
+        "logoUrl": "https://homecookbasics.com/wp-content/uploads/2021/11/How-to-tell-if-chicken-has-gone-bad-768x768.jpg",
         "tahun": "1882",
         "city": "London",
         "bestplayer": "Harry Kane"
@@ -154,7 +154,7 @@
     {
         "clubName": "Wolverhampton Wanderers",
         "stadiumName": "Molineux",
-        "logoUrl": "https://ibb.co/ggqp0KW",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/id/thumb/f/fc/Wolverhampton_Wanderers.svg/300px-Wolverhampton_Wanderers.svg.png",
         "tahun": "1877",
         "city": "Wolverhampton",
         "bestplayer": "Billy Wright"
